@@ -27,15 +27,15 @@ Maintained by @Prince_3011 ❤
             [
                 [
                     InlineKeyboardButton(
-                        "Command", url="https://t.me/PRINCE_NETWORK/4",
+                        "Command", url="https://t.me/PRINCEBOTS/4",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/PRINCE_BOT_SUPPORT"
+                        "💬 Group", url="https://t.me/PRINCEBOTSUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/prince_network"
+                        "🔊 Channel", url="https://t.me/princebots"
                     ),
                     InlineKeyboardButton(
                         "😍 Credit", url="https://t.me/prince_3011"
@@ -61,7 +61,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/prince_network"
+                        "🔊 Channel", url="https://t.me/princebots"
                     )
                 ],    
                 [    
@@ -110,7 +110,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/prince_network"
+                        "🔊 Channel", url="https://t.me/princebots"
                     )
                 ]
             ]
